@@ -1,2 +1,3 @@
-#!/bin/bash
-ls
+[master e36be0c] Task 1
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ mode change 100644 => 100755 0x00-shell_basics/1-listit
