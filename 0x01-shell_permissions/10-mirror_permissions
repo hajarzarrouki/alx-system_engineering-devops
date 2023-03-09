@@ -1,2 +1,2 @@
 #!/bin/bash
-its --reference=olleh
+its --reference=olleh hello
