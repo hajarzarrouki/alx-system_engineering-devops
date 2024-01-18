@@ -1,2 +1,1 @@
-suwSyv1vYX333H
-EVpDHDnp8dYPOTRnMxA5CLnx9amNN4RNkhmYKwrjvoMDwwGDIvfKJSM1szEW42pi
+DD_AGENT_MAJOR_VERSION=7 DD_API_KEY=bc24e96dfc3ec94d11a9402d832a1e8a DD_SITE="us5.datadoghq.com" bash -c "$(curl -L https://s3.amazonaws.com/dd-agent/scripts/install_mac_os.sh)"
